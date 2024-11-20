@@ -12,7 +12,7 @@ All datasets were retrieved from https://42basepairs.com/browse/s3/kin-del-2024
   - rdkit
 
 ## Results
-For MPK14, the average MSE was 0.085, and for DDR1, similar to the results show on the paper. 
+For MPK14, the average MSE was 0.085, and _ for DDR1, similar to the results shown on the paper. 
 
 
 ## Potential improvements and alternative approaches
