@@ -1,1 +1,2 @@
-# cheminfo_challenge
+#Cheminformatics Tech Challenge
+The challenge consists in creating a machine learning model to predict enrichment scores of DEL compounds and evaluate how well it generalizes to real binding affinities (Kd). This repository contains a machine learning model based on word2vec for SMILES vectorization in order to predict enrichment scores, as well as potential improvements that can be addressed in future iterations.
