@@ -2,6 +2,9 @@
 
 The challenge consists in creating a machine learning model to predict enrichment scores of DEL compounds and evaluate how well it generalizes to real binding affinities (Kd). This repository contains a machine learning model based on mol2vec and XGBoost for SMILES vectorization in order to predict enrichment scores.
 
+## Datasets
+All datasets were retrieved from https://42basepairs.com/browse/s3/kin-del-2024
+
 ## Packages
   - pandas
   - numpy
