@@ -8,9 +8,12 @@ All datasets were retrieved from https://42basepairs.com/browse/s3/kin-del-2024
 ## Packages
   - pandas
   - numpy
-  - gensim
   - sklearn
   - rdkit
+
+## Results
+For MPK14, the average MSE was 0.085, and for DDR1, similar to the results show on the paper. 
+
 
 ## Potential improvements and alternative approaches
 Multiple areas may be improved. For example, in this case, vectors were truncated to 30 elements due to time/RAM limitations, however, PCA can be used to reduce the dimensionality of the mol2vec vector and preserve variance. Additionally, other techniques should be tried to make sure that structural features are not being lost, either by padding or by trying multiple vector lengths.
