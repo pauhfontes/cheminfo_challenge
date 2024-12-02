@@ -10,6 +10,7 @@ All datasets were retrieved from https://42basepairs.com/browse/s3/kin-del-2024
   - numpy
   - sklearn
   - rdkit
+  - word2vec
 
 ## Results
 For MPK14, the average MSE was 0.085, similar to the results shown on the paper. Pending to run for DDR1.
